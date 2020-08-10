@@ -1,7 +1,9 @@
+
 .header {
     padding: 30px;
     text-align: center;
     background: url("world.jpg");
+    display: block;
   }
   
   .header h1 {
@@ -55,12 +57,14 @@
     margin: 30px;
     height: 200px;
     width: 200px;
+    
   }
   
   #introduce-me {
     margin: 30px;
     height: 200px;
     width: 200px;
+    
   }
   
   #specification {
