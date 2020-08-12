@@ -3,6 +3,7 @@
     padding: 30px;
     text-align: center;
     background: url("world.jpg");
+    border-style: outset;
     display: block;
   }
   
